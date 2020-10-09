@@ -1,0 +1,5 @@
+22:01:17.278 [main] INFO  Academy.ValidatingTitle - Inside Before Method: Navigated to URL
+22:01:17.595 [main] INFO  Academy.ValidatingTitle - Inside getTitleValidation Test: Successfully validated title
+23:35:52.584 [TestNG-tests-3] INFO  Academy.ValidatingTitle - Inside Before Method: Intialization is complete
+23:36:26.550 [TestNG-tests-3] INFO  Academy.ValidatingTitle - Inside Before Method: Navigated to URL
+23:36:32.796 [TestNG-tests-1] INFO  Academy.NavigationBarValidation - inside navigation bar validation test and it is visible

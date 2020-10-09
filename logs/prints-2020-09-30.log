@@ -1,0 +1,6 @@
+20:17:47.513 [main] INFO  Academy.NavigationBarValidation - inside navigation bar validation test and it is visible
+20:17:59.241 [main] INFO  Academy.HomePage - Inside the homepage class and it is working fine
+20:18:11.395 [main] INFO  Academy.HomePage - Inside the homepage class and it is working fine
+20:18:15.086 [main] INFO  Academy.ValidatingTitle - Inside Before Method: Intialization is complete
+20:18:21.837 [main] INFO  Academy.ValidatingTitle - Inside Before Method: Navigated to URL
+20:18:25.252 [main] INFO  Academy.ValidatingTitle - Inside getTitleValidation Test: Successfully validated title

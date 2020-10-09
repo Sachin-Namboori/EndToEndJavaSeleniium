@@ -1,0 +1,4 @@
+01:12:31.400 [main] INFO  Academy.ValidatingTitle - Inside Before Method: Intialization is complete
+01:12:35.491 [main] INFO  Academy.ValidatingTitle - Inside Before Method: Navigated to URL
+01:12:38.951 [main] INFO  Academy.ValidatingTitle - Inside getTitleValidation Test: Successfully validated title
+10:32:29.143 [TestNG-test=HomePageTest-1] INFO  Academy.HomePage - Inside the homepage class and it is working fine
